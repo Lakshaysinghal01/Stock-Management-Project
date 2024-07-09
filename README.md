@@ -1,1 +1,1 @@
-# School-Management Project
+# Stock-Management Project
